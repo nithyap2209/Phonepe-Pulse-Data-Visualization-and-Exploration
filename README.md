@@ -12,3 +12,7 @@ The aim of this project is to develop a solution that extracts, transforms, and 
 *Dashboard Creation: Using Streamlit and Plotly to build an interactive dashboard.
 
 *Data Retrieval: Fetching data from the database to dynamically update the dashboard.
+
+
+
+https://drive.google.com/drive/folders/1lzadsFdmsfTsZWjj_uQ9QIqNUG4q7TzB?usp=sharing
