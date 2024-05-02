@@ -13,6 +13,8 @@ The aim of this project is to develop a solution that extracts, transforms, and 
 
 *Data Retrieval: Fetching data from the database to dynamically update the dashboard.
 
+LinkedIn : https://www.linkedin.com/in/nithyalakshmi-p-a3a191217
+
+Google Drive: https://drive.google.com/drive/folders/1lzadsFdmsfTsZWjj_uQ9QIqNUG4q7TzB?usp=sharing
 
 
-https://drive.google.com/drive/folders/1lzadsFdmsfTsZWjj_uQ9QIqNUG4q7TzB?usp=sharing
