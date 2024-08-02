@@ -3,7 +3,6 @@ tensorflow
 pillow
 numpy
 streamlit_option_menu
-streamlit_option_menu
 psycopg2
 pandas 
 plotly
