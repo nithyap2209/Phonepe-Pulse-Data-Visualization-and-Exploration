@@ -1,11 +1,7 @@
 streamlit
-tensorflow
-pillow
-numpy
-streamlit_option_menu
+streamlit-option-menu
 psycopg2
-pandas 
+pandas
 plotly
 requests
-json
-PIL 
+Pillow
