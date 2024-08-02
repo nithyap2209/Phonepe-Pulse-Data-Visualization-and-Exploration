@@ -3,3 +3,9 @@ tensorflow
 pillow
 numpy
 streamlit_option_menu
+psycopg2
+pandas 
+plotly
+requests
+json
+PIL 
